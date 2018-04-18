@@ -1,7 +1,7 @@
 {
     "description": "Espressif IoT Development Framework with the ESP32",
-    "name": "framework-espidf",
+    "name": "framework-espidf3",
     "system": "*",
-    "url": "https://github.com/espressif/esp-idf",
-    "version": "2.211.0"
+    "url": "https://github.com/rohansingh/esp-idf",
+    "version": "3.0"
 }

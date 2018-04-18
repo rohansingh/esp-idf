@@ -3,5 +3,5 @@
     "name": "framework-espidf3",
     "system": "*",
     "url": "https://github.com/rohansingh/esp-idf",
-    "version": "3.0"
+    "version": "3.0.0-rc1"
 }
